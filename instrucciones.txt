@@ -1,0 +1,12 @@
+npm install -g cordova ionic
+
+ionicons.com
+http://ngcordova.com/
+
+
+https://ionicframework.com/
+https://ionicframework.com/docs/components/
+
+
+
+ionic serve -l -c
